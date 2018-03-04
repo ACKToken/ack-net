@@ -1,0 +1,9 @@
+C:\Users\anpfe\Documents\GitHub\ack-net\ack-net\bin\Debug\netstandard2.0\ack-net.deps.json
+C:\Users\anpfe\Documents\GitHub\ack-net\ack-net\bin\Debug\netstandard2.0\ack-net.dll
+C:\Users\anpfe\Documents\GitHub\ack-net\ack-net\bin\Debug\netstandard2.0\ack-net.pdb
+C:\Users\anpfe\Documents\GitHub\ack-net\ack-net\obj\Debug\netstandard2.0\ack-net.csprojResolveAssemblyReference.cache
+C:\Users\anpfe\Documents\GitHub\ack-net\ack-net\obj\Debug\netstandard2.0\ack-net.csproj.CoreCompileInputs.cache
+C:\Users\anpfe\Documents\GitHub\ack-net\ack-net\obj\Debug\netstandard2.0\ack-net.AssemblyInfoInputs.cache
+C:\Users\anpfe\Documents\GitHub\ack-net\ack-net\obj\Debug\netstandard2.0\ack-net.AssemblyInfo.cs
+C:\Users\anpfe\Documents\GitHub\ack-net\ack-net\obj\Debug\netstandard2.0\ack-net.dll
+C:\Users\anpfe\Documents\GitHub\ack-net\ack-net\obj\Debug\netstandard2.0\ack-net.pdb
