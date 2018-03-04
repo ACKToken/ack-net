@@ -1,8 +1,14 @@
 ﻿using System;
+using ArkNet;
+using ArkNet.Utils.Enum;
 
 namespace AckNet
 {
-    public class ArkNetApi
+    public class AckNetApi
     {
+        public AckNetApi()
+        {
+            ArkNetApi.Instance.Start(NetworkType.MainNet).Wait();
+        }
     }
 }
