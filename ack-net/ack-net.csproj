@@ -5,7 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="ark.net" Version="0.8.0" />
+    <Reference Include="ark-net">
+      <HintPath>ark-net\ark-net.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
